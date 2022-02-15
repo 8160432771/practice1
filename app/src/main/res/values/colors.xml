@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#7018DC</color>
+    <color name="purple_500">#FFEB3B</color>
+    <color name="purple_700">#E82B1D</color>
+    <color name="teal_200">#393E3E</color>
+    <color name="teal_700">#192B3A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">Nihar</color>
+</resources>
